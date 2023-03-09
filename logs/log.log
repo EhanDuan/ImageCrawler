@@ -1,0 +1,967 @@
+2023-03-06 18:30:35  [ main:1 ] - [ INFO ]  Start crawling....
+2023-03-06 18:30:35  [ pool-1-thread-1:5 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 18:30:37  [ main:2026 ] - [ INFO ]  Crawler url job done
+2023-03-06 18:32:58  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 18:32:58  [ pool-1-thread-1:13 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 18:45:15  [ main:737447 ] - [ INFO ]  Crawler url job done
+2023-03-06 20:23:30  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 20:23:30  [ pool-1-thread-1:5 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 20:23:32  [ main:2007 ] - [ INFO ]  Crawler url job done
+2023-03-06 20:24:35  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 20:24:35  [ pool-1-thread-1:5 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 20:24:37  [ main:1985 ] - [ INFO ]  Crawler url job done
+2023-03-06 20:25:08  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 20:25:08  [ pool-1-thread-1:4 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 20:25:11  [ main:2163 ] - [ INFO ]  Crawler url job done
+2023-03-06 20:25:16  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 20:25:16  [ pool-1-thread-1:6 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 20:26:04  [ main:48307 ] - [ INFO ]  Crawler url job done
+2023-03-06 21:58:05  [ main:1 ] - [ INFO ]  Start crawling....
+2023-03-06 21:58:05  [ pool-1-thread-1:3 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 21:58:07  [ pool-1-thread-1:2056 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/nba/1
+2023-03-06 21:58:07  [ pool-1-thread-2:2056 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/nba/1
+2023-03-06 21:58:07  [ pool-1-thread-1:2057 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/cba/1
+2023-03-06 21:58:07  [ pool-1-thread-3:2057 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/cba/1
+2023-03-06 21:58:07  [ pool-1-thread-4:2057 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/fifa/1
+2023-03-06 21:58:07  [ pool-1-thread-1:2057 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/fifa/1
+2023-03-06 21:58:07  [ pool-1-thread-1:2058 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/csl/1
+2023-03-06 21:58:07  [ pool-1-thread-1:2058 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/kog/1
+2023-03-06 21:58:07  [ pool-1-thread-1:2059 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/lol/1
+2023-03-06 21:58:07  [ pool-1-thread-1:2059 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58481662
+2023-03-06 21:58:07  [ pool-1-thread-1:2059 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58481483
+2023-03-06 21:58:07  [ pool-1-thread-1:2060 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58480162
+2023-03-06 21:58:07  [ pool-1-thread-1:2060 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58480105
+2023-03-06 21:58:07  [ pool-1-thread-1:2060 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58479972
+2023-03-06 21:58:07  [ pool-1-thread-1:2061 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58479768
+2023-03-06 21:58:07  [ pool-1-thread-1:2061 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476605
+2023-03-06 21:58:07  [ pool-1-thread-1:2062 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476587
+2023-03-06 21:58:07  [ pool-1-thread-1:2062 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476278
+2023-03-06 21:58:07  [ pool-1-thread-1:2062 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58479657
+2023-03-06 21:58:07  [ pool-1-thread-1:2062 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475985
+2023-03-06 21:58:07  [ pool-1-thread-1:2062 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475653
+2023-03-06 21:58:07  [ pool-1-thread-1:2063 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58479341
+2023-03-06 21:58:07  [ pool-1-thread-1:2063 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475634
+2023-03-06 21:58:07  [ pool-1-thread-1:2063 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475247
+2023-03-06 21:58:07  [ pool-1-thread-1:2063 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475011
+2023-03-06 21:58:07  [ pool-1-thread-1:2063 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58474680
+2023-03-06 21:58:07  [ pool-1-thread-1:2063 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58479199
+2023-03-06 21:58:07  [ pool-1-thread-1:2064 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58474590
+2023-03-06 21:58:07  [ pool-1-thread-1:2064 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58474303
+2023-03-06 21:58:07  [ pool-1-thread-1:2064 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58474145
+2023-03-06 21:58:07  [ pool-1-thread-1:2064 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58479023
+2023-03-06 21:58:07  [ pool-1-thread-1:2064 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58473836
+2023-03-06 21:58:07  [ pool-1-thread-1:2065 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58473794
+2023-03-06 21:58:07  [ pool-1-thread-1:2065 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58473668
+2023-03-06 21:58:07  [ pool-1-thread-1:2065 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58478840
+2023-03-06 21:58:07  [ pool-1-thread-1:2065 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58473274
+2023-03-06 21:58:07  [ pool-1-thread-1:2065 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58473223
+2023-03-06 21:58:07  [ pool-1-thread-1:2066 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58473164
+2023-03-06 21:58:07  [ pool-1-thread-1:2067 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58478607
+2023-03-06 21:58:07  [ pool-1-thread-1:2067 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/
+2023-03-06 21:58:07  [ pool-1-thread-1:2068 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58450008
+2023-03-06 21:58:07  [ pool-1-thread-1:2068 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476930
+2023-03-06 21:58:07  [ pool-1-thread-1:2068 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476753
+2023-03-06 21:58:07  [ pool-1-thread-1:2069 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475270
+2023-03-06 21:58:07  [ pool-1-thread-1:2069 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476558
+2023-03-06 21:58:07  [ pool-1-thread-1:2069 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476470
+2023-03-06 21:58:07  [ pool-1-thread-1:2069 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476381
+2023-03-06 21:58:07  [ pool-1-thread-1:2070 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476295
+2023-03-06 21:58:07  [ pool-1-thread-1:2070 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476291
+2023-03-06 21:58:07  [ pool-1-thread-1:2070 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476265
+2023-03-06 21:58:07  [ pool-1-thread-1:2070 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476232
+2023-03-06 21:58:07  [ pool-1-thread-1:2071 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476195
+2023-03-06 21:58:07  [ pool-1-thread-1:2071 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476115
+2023-03-06 21:58:07  [ pool-1-thread-1:2071 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58476106
+2023-03-06 21:58:07  [ pool-1-thread-1:2071 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475907
+2023-03-06 21:58:07  [ pool-1-thread-1:2072 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475578
+2023-03-06 21:58:07  [ pool-1-thread-1:2072 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58475519
+2023-03-06 21:58:07  [ pool-1-thread-1:2072 ] - [ INFO ]  pool-1-thread-1 produces other url : mailto:sunbin@hupu.com
+2023-03-06 21:58:07  [ pool-1-thread-1:2074 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/csl/1
+2023-03-06 21:58:07  [ pool-1-thread-3:2920 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58409939
+2023-03-06 21:58:07  [ pool-1-thread-4:2920 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58426976
+2023-03-06 21:58:07  [ pool-1-thread-3:2920 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58409860
+2023-03-06 21:58:07  [ pool-1-thread-4:2920 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58426904
+2023-03-06 21:58:07  [ pool-1-thread-3:2920 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58408080
+2023-03-06 21:58:08  [ pool-1-thread-4:2921 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58426710
+2023-03-06 21:58:08  [ pool-1-thread-3:2921 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58404324
+2023-03-06 21:58:08  [ pool-1-thread-4:2921 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58425923
+2023-03-06 21:58:08  [ pool-1-thread-3:2921 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58404452
+2023-03-06 21:58:08  [ pool-1-thread-4:2921 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58425332
+2023-03-06 21:58:08  [ pool-1-thread-3:2921 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58404241
+2023-03-06 21:58:08  [ pool-1-thread-3:2922 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58404083
+2023-03-06 21:58:08  [ pool-1-thread-4:2922 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58424937
+2023-03-06 21:58:08  [ pool-1-thread-3:2922 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58403668
+2023-03-06 21:58:08  [ pool-1-thread-4:2922 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58424669
+2023-03-06 21:58:08  [ pool-1-thread-3:2922 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58403548
+2023-03-06 21:58:08  [ pool-1-thread-4:2923 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58423860
+2023-03-06 21:58:08  [ pool-1-thread-3:2923 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58403448
+2023-03-06 21:58:08  [ pool-1-thread-4:2923 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58423437
+2023-03-06 21:58:08  [ pool-1-thread-2:2923 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/kog/1
+2023-03-06 21:58:08  [ pool-1-thread-3:2923 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58403374
+2023-03-06 21:58:08  [ pool-1-thread-4:2923 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58423060
+2023-03-06 21:58:08  [ pool-1-thread-3:2924 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58403266
+2023-03-06 21:58:08  [ pool-1-thread-4:2924 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58421700
+2023-03-06 21:58:08  [ pool-1-thread-3:2924 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58403177
+2023-03-06 21:58:08  [ pool-1-thread-3:2924 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58403131
+2023-03-06 21:58:08  [ pool-1-thread-3:2924 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349253
+2023-03-06 21:58:08  [ pool-1-thread-4:2924 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58421379
+2023-03-06 21:58:08  [ pool-1-thread-3:2924 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349220
+2023-03-06 21:58:08  [ pool-1-thread-4:2925 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58419353
+2023-03-06 21:58:08  [ pool-1-thread-3:2925 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349190
+2023-03-06 21:58:08  [ pool-1-thread-4:2925 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58414392
+2023-03-06 21:58:08  [ pool-1-thread-3:2925 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349196
+2023-03-06 21:58:08  [ pool-1-thread-3:2925 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349174
+2023-03-06 21:58:08  [ pool-1-thread-3:2926 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349137
+2023-03-06 21:58:08  [ pool-1-thread-4:2925 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58409946
+2023-03-06 21:58:08  [ pool-1-thread-3:2926 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349101
+2023-03-06 21:58:08  [ pool-1-thread-4:2926 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58397908
+2023-03-06 21:58:08  [ pool-1-thread-3:2926 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349100
+2023-03-06 21:58:08  [ pool-1-thread-4:2926 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58409691
+2023-03-06 21:58:08  [ pool-1-thread-3:2926 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58349012
+2023-03-06 21:58:08  [ pool-1-thread-4:2927 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58409672
+2023-03-06 21:58:08  [ pool-1-thread-3:2927 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348924
+2023-03-06 21:58:08  [ pool-1-thread-4:2927 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58409329
+2023-03-06 21:58:08  [ pool-1-thread-3:2927 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348911
+2023-03-06 21:58:08  [ pool-1-thread-4:2927 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58408279
+2023-03-06 21:58:08  [ pool-1-thread-3:2927 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348812
+2023-03-06 21:58:08  [ pool-1-thread-4:2928 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58408461
+2023-03-06 21:58:08  [ pool-1-thread-3:2928 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348804
+2023-03-06 21:58:08  [ pool-1-thread-4:2928 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58408191
+2023-03-06 21:58:08  [ pool-1-thread-3:2928 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348763
+2023-03-06 21:58:08  [ pool-1-thread-4:2928 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58407981
+2023-03-06 21:58:08  [ pool-1-thread-3:2929 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348660
+2023-03-06 21:58:08  [ pool-1-thread-3:2929 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348639
+2023-03-06 21:58:08  [ pool-1-thread-3:2929 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348589
+2023-03-06 21:58:08  [ pool-1-thread-4:2929 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58407520
+2023-03-06 21:58:08  [ pool-1-thread-3:2929 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348565
+2023-03-06 21:58:08  [ pool-1-thread-4:2929 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58407263
+2023-03-06 21:58:08  [ pool-1-thread-3:2929 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348481
+2023-03-06 21:58:08  [ pool-1-thread-4:2930 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58407012
+2023-03-06 21:58:08  [ pool-1-thread-3:2930 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348371
+2023-03-06 21:58:08  [ pool-1-thread-4:2930 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58406826
+2023-03-06 21:58:08  [ pool-1-thread-3:2930 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348206
+2023-03-06 21:58:08  [ pool-1-thread-4:2930 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58406754
+2023-03-06 21:58:08  [ pool-1-thread-3:2930 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348063
+2023-03-06 21:58:08  [ pool-1-thread-4:2930 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58406735
+2023-03-06 21:58:08  [ pool-1-thread-3:2931 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348006
+2023-03-06 21:58:08  [ pool-1-thread-4:2931 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58406727
+2023-03-06 21:58:08  [ pool-1-thread-3:2931 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347871
+2023-03-06 21:58:08  [ pool-1-thread-4:2931 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58406642
+2023-03-06 21:58:08  [ pool-1-thread-3:2931 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347828
+2023-03-06 21:58:08  [ pool-1-thread-4:2932 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58406615
+2023-03-06 21:58:08  [ pool-1-thread-3:2932 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347544
+2023-03-06 21:58:08  [ pool-1-thread-4:2932 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58399480
+2023-03-06 21:58:08  [ pool-1-thread-3:2932 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347502
+2023-03-06 21:58:08  [ pool-1-thread-4:2932 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58399483
+2023-03-06 21:58:08  [ pool-1-thread-3:2932 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347437
+2023-03-06 21:58:08  [ pool-1-thread-4:2932 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58399177
+2023-03-06 21:58:08  [ pool-1-thread-3:2932 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347438
+2023-03-06 21:58:08  [ pool-1-thread-4:2932 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58398994
+2023-03-06 21:58:08  [ pool-1-thread-3:2932 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347239
+2023-03-06 21:58:08  [ pool-1-thread-4:2937 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58398925
+2023-03-06 21:58:08  [ pool-1-thread-3:2937 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347091
+2023-03-06 21:58:08  [ pool-1-thread-4:2937 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58398135
+2023-03-06 21:58:08  [ pool-1-thread-4:2938 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58397443
+2023-03-06 21:58:08  [ pool-1-thread-4:2938 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58397269
+2023-03-06 21:58:08  [ pool-1-thread-4:2938 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58397172
+2023-03-06 21:58:08  [ pool-1-thread-3:2938 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/lol/1
+2023-03-06 21:58:08  [ pool-1-thread-4:2938 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58395765
+2023-03-06 21:58:08  [ pool-1-thread-4:2939 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58394705
+2023-03-06 21:58:08  [ pool-1-thread-4:2939 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58394698
+2023-03-06 21:58:08  [ pool-1-thread-4:2939 ] - [ INFO ]  pool-1-thread-4 produces other url : https://voice.hupu.com/bbs/58392772
+2023-03-06 21:58:08  [ pool-1-thread-4:2940 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58481662
+2023-03-06 21:58:08  [ pool-1-thread-1:3036 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58134126
+2023-03-06 21:58:08  [ pool-1-thread-1:3036 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58134086
+2023-03-06 21:58:08  [ pool-1-thread-1:3037 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58131171
+2023-03-06 21:58:08  [ pool-1-thread-1:3037 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58131019
+2023-03-06 21:58:08  [ pool-1-thread-1:3037 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58130257
+2023-03-06 21:58:08  [ pool-1-thread-1:3037 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58129976
+2023-03-06 21:58:08  [ pool-1-thread-1:3037 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58129833
+2023-03-06 21:58:08  [ pool-1-thread-1:3037 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58128882
+2023-03-06 21:58:08  [ pool-1-thread-1:3037 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58128215
+2023-03-06 21:58:08  [ pool-1-thread-1:3038 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58128194
+2023-03-06 21:58:08  [ pool-1-thread-1:3038 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58128104
+2023-03-06 21:58:08  [ pool-1-thread-1:3038 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58125930
+2023-03-06 21:58:08  [ pool-1-thread-1:3038 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58123217
+2023-03-06 21:58:08  [ pool-1-thread-1:3038 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58122997
+2023-03-06 21:58:08  [ pool-1-thread-1:3038 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58120674
+2023-03-06 21:58:08  [ pool-1-thread-1:3038 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58117063
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58116632
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58101848
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58101314
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58100431
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58097284
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58096949
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58096580
+2023-03-06 21:58:08  [ pool-1-thread-1:3039 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58096395
+2023-03-06 21:58:08  [ pool-1-thread-1:3040 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58096239
+2023-03-06 21:58:08  [ pool-1-thread-1:3040 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58095614
+2023-03-06 21:58:08  [ pool-1-thread-1:3040 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58095366
+2023-03-06 21:58:08  [ pool-1-thread-1:3040 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58078763
+2023-03-06 21:58:08  [ pool-1-thread-1:3040 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58074678
+2023-03-06 21:58:08  [ pool-1-thread-1:3040 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58073126
+2023-03-06 21:58:08  [ pool-1-thread-1:3040 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58054862
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58053576
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58052583
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58052252
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58052224
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58051821
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58050978
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/58050169
+2023-03-06 21:58:08  [ pool-1-thread-1:3041 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57934803
+2023-03-06 21:58:08  [ pool-1-thread-1:3042 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57933545
+2023-03-06 21:58:08  [ pool-1-thread-1:3042 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57933072
+2023-03-06 21:58:08  [ pool-1-thread-1:3042 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57930337
+2023-03-06 21:58:08  [ pool-1-thread-1:3042 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57929259
+2023-03-06 21:58:08  [ pool-1-thread-1:3042 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57926101
+2023-03-06 21:58:08  [ pool-1-thread-1:3042 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57913891
+2023-03-06 21:58:08  [ pool-1-thread-1:3042 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57922537
+2023-03-06 21:58:08  [ pool-1-thread-1:3043 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57921277
+2023-03-06 21:58:08  [ pool-1-thread-1:3043 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57920673
+2023-03-06 21:58:08  [ pool-1-thread-1:3043 ] - [ INFO ]  pool-1-thread-1 produces other url : https://voice.hupu.com/bbs/57915293
+2023-03-06 21:58:08  [ pool-1-thread-1:3043 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58481483
+2023-03-06 21:58:08  [ pool-1-thread-3:3739 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58430940
+2023-03-06 21:58:08  [ pool-1-thread-3:3740 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58430721
+2023-03-06 21:58:08  [ pool-1-thread-3:3740 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58429440
+2023-03-06 21:58:08  [ pool-1-thread-3:3740 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58429534
+2023-03-06 21:58:08  [ pool-1-thread-3:3740 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58428973
+2023-03-06 21:58:08  [ pool-1-thread-3:3740 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58428417
+2023-03-06 21:58:08  [ pool-1-thread-3:3740 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58427686
+2023-03-06 21:58:08  [ pool-1-thread-3:3740 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58427425
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58427329
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58427166
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58427024
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426961
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426940
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426815
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426819
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426713
+2023-03-06 21:58:08  [ pool-1-thread-3:3741 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426717
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426505
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426263
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426206
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426163
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58426054
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58425931
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58425840
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58425749
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58425747
+2023-03-06 21:58:08  [ pool-1-thread-3:3742 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58425467
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348590
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348563
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348547
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348489
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348199
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58348163
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347709
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347846
+2023-03-06 21:58:08  [ pool-1-thread-3:3743 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347669
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347606
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347565
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347337
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58347214
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346921
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346812
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346791
+2023-03-06 21:58:08  [ pool-1-thread-3:3744 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346701
+2023-03-06 21:58:08  [ pool-1-thread-3:3745 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346601
+2023-03-06 21:58:08  [ pool-1-thread-3:3745 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346566
+2023-03-06 21:58:08  [ pool-1-thread-3:3745 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346460
+2023-03-06 21:58:08  [ pool-1-thread-3:3745 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346407
+2023-03-06 21:58:08  [ pool-1-thread-3:3745 ] - [ INFO ]  pool-1-thread-3 produces other url : https://voice.hupu.com/bbs/58346319
+2023-03-06 21:58:08  [ pool-1-thread-3:3745 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58480162
+2023-03-06 21:58:08  [ pool-1-thread-4:3854 ] - [ INFO ]  pool-1-thread-4 produces other url : 
+2023-03-06 21:58:08  [ pool-1-thread-4:3854 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58480105
+2023-03-06 21:58:09  [ pool-1-thread-2:3924 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58339325
+2023-03-06 21:58:09  [ pool-1-thread-2:3924 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58341803
+2023-03-06 21:58:09  [ pool-1-thread-2:3924 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58342401
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58334921
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58325287
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58327899
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58326159
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58325285
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58321091
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58317078
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58318810
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58319529
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58319961
+2023-03-06 21:58:09  [ pool-1-thread-2:3925 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58316730
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58317391
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58317162
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58316614
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58318133
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58316398
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58316364
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58290054
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58288305
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58281290
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58284134
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58284735
+2023-03-06 21:58:09  [ pool-1-thread-2:3926 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58284816
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58284940
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58286364
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58274010
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58270013
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58277282
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58280815
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58280894
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58281022
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58278800
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58277837
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58274005
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58268591
+2023-03-06 21:58:09  [ pool-1-thread-2:3927 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58268248
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58267666
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58266091
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58254030
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58253825
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58253867
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58252056
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58252725
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58250212
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58248497
+2023-03-06 21:58:09  [ pool-1-thread-2:3928 ] - [ INFO ]  pool-1-thread-2 produces other url : https://voice.hupu.com/bbs/58214082
+2023-03-06 21:58:09  [ pool-1-thread-2:3929 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58479972
+2023-03-06 21:58:09  [ pool-1-thread-1:4030 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58479768
+2023-03-06 21:58:09  [ pool-1-thread-2:4744 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58476605
+2023-03-06 21:58:09  [ pool-1-thread-4:4744 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58476587
+2023-03-06 21:58:09  [ pool-1-thread-3:4792 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58476278
+2023-03-06 21:58:10  [ pool-1-thread-1:4934 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58479657
+2023-03-06 21:58:10  [ pool-1-thread-3:5662 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58475985
+2023-03-06 21:58:10  [ pool-1-thread-4:5676 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58475653
+2023-03-06 21:58:10  [ pool-1-thread-2:5791 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58479341
+2023-03-06 21:58:10  [ pool-1-thread-1:5849 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58475634
+2023-03-06 21:58:11  [ pool-1-thread-4:6628 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58475247
+2023-03-06 21:58:11  [ pool-1-thread-3:6697 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58475985 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 21:58:11  [ pool-1-thread-3:6698 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58475011
+2023-03-06 21:58:11  [ pool-1-thread-2:6736 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58474680
+2023-03-06 21:58:11  [ pool-1-thread-1:6754 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58479199
+2023-03-06 21:58:12  [ pool-1-thread-1:7648 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58474590
+2023-03-06 21:58:12  [ pool-1-thread-2:7677 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58474680 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 21:58:12  [ pool-1-thread-2:7677 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58474303
+2023-03-06 21:58:12  [ pool-1-thread-4:7808 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58474145
+2023-03-06 21:58:13  [ pool-1-thread-3:7974 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58479023
+2023-03-06 21:58:13  [ pool-1-thread-1:8495 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58473836
+2023-03-06 21:58:13  [ pool-1-thread-2:8583 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58473794
+2023-03-06 21:58:13  [ pool-1-thread-4:8733 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58473668
+2023-03-06 21:58:13  [ pool-1-thread-3:8876 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58478840
+2023-03-06 21:58:14  [ pool-1-thread-1:9413 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58473274
+2023-03-06 21:58:14  [ pool-1-thread-2:9494 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58473223
+2023-03-06 21:58:14  [ pool-1-thread-4:9661 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58473668 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 21:58:14  [ pool-1-thread-4:9662 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58473164
+2023-03-06 21:58:14  [ pool-1-thread-3:9795 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58478607
+2023-03-06 21:58:15  [ pool-1-thread-1:10304 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/
+2023-03-06 21:58:15  [ pool-1-thread-2:10429 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58450008
+2023-03-06 21:58:15  [ pool-1-thread-4:10602 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58476930
+2023-03-06 21:58:15  [ pool-1-thread-3:10798 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58476753
+2023-03-06 21:58:16  [ pool-1-thread-1:11101 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58475270
+2023-03-06 21:58:16  [ pool-1-thread-2:11298 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58476558
+2023-03-06 21:58:16  [ pool-1-thread-4:11452 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58476470
+2023-03-06 21:58:16  [ pool-1-thread-3:11720 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58476381
+2023-03-06 21:58:17  [ pool-1-thread-2:12203 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58476295
+2023-03-06 21:58:17  [ pool-1-thread-1:12270 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58476291
+2023-03-06 21:58:17  [ pool-1-thread-4:12664 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58476265
+2023-03-06 21:58:17  [ pool-1-thread-3:12664 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58476232
+2023-03-06 21:58:18  [ pool-1-thread-2:13106 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58476195
+2023-03-06 21:58:18  [ pool-1-thread-1:13317 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58476115
+2023-03-06 21:58:18  [ pool-1-thread-4:13477 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58476106
+2023-03-06 21:58:18  [ pool-1-thread-3:13607 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58475907
+2023-03-06 21:58:19  [ pool-1-thread-2:13972 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58475578
+2023-03-06 21:58:19  [ pool-1-thread-1:14117 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58475519
+2023-03-06 21:58:19  [ pool-1-thread-4:14366 ] - [ INFO ]  pool-1-thread-4 consumes url : mailto:sunbin@hupu.com
+2023-03-06 21:58:19  [ pool-1-thread-4:14366 ] - [ ERROR ]  process url : mailto:sunbin@hupu.com error: java.net.MalformedURLException: Only http & https protocols supported
+2023-03-06 21:58:19  [ pool-1-thread-4:14366 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58409939
+2023-03-06 21:58:19  [ pool-1-thread-3:14486 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58426976
+2023-03-06 21:58:19  [ pool-1-thread-2:14896 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58409860
+2023-03-06 21:58:20  [ pool-1-thread-1:15295 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58426904
+2023-03-06 21:58:20  [ pool-1-thread-4:15470 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58408080
+2023-03-06 21:58:20  [ pool-1-thread-3:15514 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58426710
+2023-03-06 21:58:20  [ pool-1-thread-2:15873 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58404324
+2023-03-06 21:58:21  [ pool-1-thread-1:16144 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58425923
+2023-03-06 21:58:21  [ pool-1-thread-3:16515 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58404452
+2023-03-06 21:58:21  [ pool-1-thread-4:16519 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58425332
+2023-03-06 21:58:22  [ pool-1-thread-1:17097 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58404241
+2023-03-06 21:58:22  [ pool-1-thread-2:17246 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58404083
+2023-03-06 21:58:22  [ pool-1-thread-4:17635 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58424937
+2023-03-06 21:58:23  [ pool-1-thread-3:18016 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58403668
+2023-03-06 21:58:23  [ pool-1-thread-2:18386 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58424669
+2023-03-06 21:58:23  [ pool-1-thread-1:18386 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58403548
+2023-03-06 21:58:23  [ pool-1-thread-4:18504 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58423860
+2023-03-06 21:58:24  [ pool-1-thread-3:18978 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58403448
+2023-03-06 21:58:24  [ pool-1-thread-2:19400 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58423437
+2023-03-06 21:58:24  [ pool-1-thread-1:19470 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58403374
+2023-03-06 21:58:24  [ pool-1-thread-4:19677 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58423060
+2023-03-06 21:58:25  [ pool-1-thread-3:19947 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58403266
+2023-03-06 21:58:25  [ pool-1-thread-2:20273 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58421700
+2023-03-06 21:58:25  [ pool-1-thread-4:20684 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58403177
+2023-03-06 21:58:25  [ pool-1-thread-1:20734 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58421379
+2023-03-06 21:58:26  [ pool-1-thread-3:20994 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58403131
+2023-03-06 21:58:26  [ pool-1-thread-2:21289 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58349253
+2023-03-06 21:58:26  [ pool-1-thread-1:21643 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58349220
+2023-03-06 21:58:26  [ pool-1-thread-4:21884 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58419353
+2023-03-06 21:58:27  [ pool-1-thread-3:22282 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58349190
+2023-03-06 21:58:27  [ pool-1-thread-2:22368 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58414392
+2023-03-06 21:58:27  [ pool-1-thread-1:22798 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58349196
+2023-03-06 21:58:27  [ pool-1-thread-4:22857 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58409946
+2023-03-06 21:58:28  [ pool-1-thread-3:23363 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58349174
+2023-03-06 21:58:28  [ pool-1-thread-2:23431 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58349137
+2023-03-06 21:58:29  [ pool-1-thread-4:23939 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58349101
+2023-03-06 21:58:29  [ pool-1-thread-1:24294 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58397908
+2023-03-06 21:58:29  [ pool-1-thread-3:24471 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58349100
+2023-03-06 21:58:29  [ pool-1-thread-2:24782 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58409691
+2023-03-06 21:58:30  [ pool-1-thread-4:25178 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58349012
+2023-03-06 21:58:30  [ pool-1-thread-1:25293 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58409672
+2023-03-06 21:58:30  [ pool-1-thread-2:25709 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58348924
+2023-03-06 21:58:30  [ pool-1-thread-3:25727 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58409329
+2023-03-06 21:58:31  [ pool-1-thread-1:26458 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58348911
+2023-03-06 21:58:31  [ pool-1-thread-4:26504 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58408279
+2023-03-06 21:58:32  [ pool-1-thread-3:27354 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58348812
+2023-03-06 21:58:32  [ pool-1-thread-2:27397 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58408461
+2023-03-06 21:58:32  [ pool-1-thread-1:27624 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58348804
+2023-03-06 21:58:33  [ pool-1-thread-3:28283 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58408191
+2023-03-06 21:58:33  [ pool-1-thread-4:28459 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58348763
+2023-03-06 21:58:33  [ pool-1-thread-2:28590 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58407981
+2023-03-06 21:58:33  [ pool-1-thread-1:28610 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58348660
+2023-03-06 21:58:34  [ pool-1-thread-4:29323 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58407520
+2023-03-06 21:58:34  [ pool-1-thread-1:29441 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58348639
+2023-03-06 21:58:34  [ pool-1-thread-3:29478 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58348589
+2023-03-06 21:58:34  [ pool-1-thread-2:29730 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58348565
+2023-03-06 21:58:35  [ pool-1-thread-1:30235 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58407263
+2023-03-06 21:58:35  [ pool-1-thread-3:30323 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58348481
+2023-03-06 21:58:35  [ pool-1-thread-4:30502 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58407012
+2023-03-06 21:58:35  [ pool-1-thread-2:30601 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58348371
+2023-03-06 21:58:36  [ pool-1-thread-3:31169 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58406826
+2023-03-06 21:58:36  [ pool-1-thread-1:31329 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58348206
+2023-03-06 21:58:36  [ pool-1-thread-2:31456 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58406754
+2023-03-06 21:58:36  [ pool-1-thread-4:31681 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58348063
+2023-03-06 21:58:37  [ pool-1-thread-1:32476 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58406735
+2023-03-06 21:58:37  [ pool-1-thread-3:32564 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58348006
+2023-03-06 21:58:37  [ pool-1-thread-2:32817 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58406727
+2023-03-06 21:58:37  [ pool-1-thread-4:32823 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58347871
+2023-03-06 21:58:38  [ pool-1-thread-3:33485 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58406642
+2023-03-06 21:58:38  [ pool-1-thread-1:33573 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58347828
+2023-03-06 21:58:38  [ pool-1-thread-4:33709 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58406615
+2023-03-06 21:58:39  [ pool-1-thread-2:33952 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58347544
+2023-03-06 21:58:39  [ pool-1-thread-1:34480 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58399480
+2023-03-06 21:58:39  [ pool-1-thread-2:34788 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58347502
+2023-03-06 21:58:39  [ pool-1-thread-3:34917 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58399483
+2023-03-06 21:58:40  [ pool-1-thread-4:34968 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58347437
+2023-03-06 21:58:40  [ pool-1-thread-1:35622 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58399177
+2023-03-06 21:58:40  [ pool-1-thread-2:35633 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58347438
+2023-03-06 21:58:40  [ pool-1-thread-4:35802 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58398994
+2023-03-06 21:58:41  [ pool-1-thread-3:36085 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58347239
+2023-03-06 21:58:41  [ pool-1-thread-2:36501 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58398925
+2023-03-06 21:58:41  [ pool-1-thread-1:36769 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58347091
+2023-03-06 21:58:41  [ pool-1-thread-3:36887 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58398135
+2023-03-06 21:58:42  [ pool-1-thread-4:37083 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58397443
+2023-03-06 21:58:42  [ pool-1-thread-2:37482 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58397269
+2023-03-06 21:58:42  [ pool-1-thread-1:37646 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58397172
+2023-03-06 21:58:43  [ pool-1-thread-3:37961 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58395765
+2023-03-06 21:58:43  [ pool-1-thread-4:38396 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58394705
+2023-03-06 22:03:02  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 22:03:02  [ pool-1-thread-1:3 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 22:03:04  [ pool-1-thread-1:1994 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/nba/1
+2023-03-06 22:03:04  [ pool-1-thread-2:1994 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/nba/1
+2023-03-06 22:03:04  [ pool-1-thread-1:1994 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/cba/1
+2023-03-06 22:03:04  [ pool-1-thread-3:1994 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/cba/1
+2023-03-06 22:03:04  [ pool-1-thread-1:1995 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/fifa/1
+2023-03-06 22:03:04  [ pool-1-thread-4:1995 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/fifa/1
+2023-03-06 22:03:04  [ pool-1-thread-1:1995 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/csl/1
+2023-03-06 22:03:04  [ pool-1-thread-1:1996 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/kog/1
+2023-03-06 22:03:04  [ pool-1-thread-1:1996 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/lol/1
+2023-03-06 22:03:04  [ pool-1-thread-1:1996 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58481662
+2023-03-06 22:03:04  [ pool-1-thread-1:1996 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58481483
+2023-03-06 22:03:04  [ pool-1-thread-1:1997 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58480162
+2023-03-06 22:03:04  [ pool-1-thread-1:1997 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58480105
+2023-03-06 22:03:04  [ pool-1-thread-1:1997 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479972
+2023-03-06 22:03:04  [ pool-1-thread-1:1998 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479768
+2023-03-06 22:03:04  [ pool-1-thread-1:1998 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476605
+2023-03-06 22:03:04  [ pool-1-thread-1:1999 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476587
+2023-03-06 22:03:04  [ pool-1-thread-1:1999 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476278
+2023-03-06 22:03:04  [ pool-1-thread-1:1999 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479657
+2023-03-06 22:03:04  [ pool-1-thread-1:1999 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475985
+2023-03-06 22:03:04  [ pool-1-thread-1:2000 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475653
+2023-03-06 22:03:04  [ pool-1-thread-1:2000 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479341
+2023-03-06 22:03:04  [ pool-1-thread-1:2000 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475634
+2023-03-06 22:03:04  [ pool-1-thread-1:2000 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475247
+2023-03-06 22:03:04  [ pool-1-thread-1:2000 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475011
+2023-03-06 22:03:04  [ pool-1-thread-1:2000 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474680
+2023-03-06 22:03:04  [ pool-1-thread-1:2001 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479199
+2023-03-06 22:03:04  [ pool-1-thread-1:2001 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474590
+2023-03-06 22:03:04  [ pool-1-thread-1:2001 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474303
+2023-03-06 22:03:04  [ pool-1-thread-1:2001 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474145
+2023-03-06 22:03:04  [ pool-1-thread-1:2001 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479023
+2023-03-06 22:03:04  [ pool-1-thread-1:2002 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473836
+2023-03-06 22:03:04  [ pool-1-thread-1:2002 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473794
+2023-03-06 22:03:04  [ pool-1-thread-1:2002 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473668
+2023-03-06 22:03:04  [ pool-1-thread-1:2002 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58478840
+2023-03-06 22:03:04  [ pool-1-thread-1:2003 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473274
+2023-03-06 22:03:04  [ pool-1-thread-1:2003 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473223
+2023-03-06 22:03:04  [ pool-1-thread-1:2003 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473164
+2023-03-06 22:03:04  [ pool-1-thread-1:2005 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58478607
+2023-03-06 22:03:04  [ pool-1-thread-1:2005 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/
+2023-03-06 22:03:04  [ pool-1-thread-1:2005 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58450008
+2023-03-06 22:03:04  [ pool-1-thread-1:2006 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476930
+2023-03-06 22:03:04  [ pool-1-thread-1:2006 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476753
+2023-03-06 22:03:04  [ pool-1-thread-1:2006 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475270
+2023-03-06 22:03:04  [ pool-1-thread-1:2006 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476558
+2023-03-06 22:03:04  [ pool-1-thread-1:2007 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476470
+2023-03-06 22:03:04  [ pool-1-thread-1:2007 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476381
+2023-03-06 22:03:04  [ pool-1-thread-1:2007 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476295
+2023-03-06 22:03:04  [ pool-1-thread-1:2007 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476291
+2023-03-06 22:03:04  [ pool-1-thread-1:2007 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476265
+2023-03-06 22:03:04  [ pool-1-thread-1:2008 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476232
+2023-03-06 22:03:04  [ pool-1-thread-1:2008 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476195
+2023-03-06 22:03:04  [ pool-1-thread-1:2008 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476115
+2023-03-06 22:03:04  [ pool-1-thread-1:2009 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476106
+2023-03-06 22:03:04  [ pool-1-thread-1:2009 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475907
+2023-03-06 22:03:04  [ pool-1-thread-1:2009 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475578
+2023-03-06 22:03:04  [ pool-1-thread-1:2009 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475519
+2023-03-06 22:03:04  [ pool-1-thread-1:2010 ] - [ INFO ]  pool-1-thread-1 produces image url : mailto:sunbin@hupu.com
+2023-03-06 22:03:04  [ pool-1-thread-1:2011 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/csl/1
+2023-03-06 22:03:05  [ pool-1-thread-3:2736 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58409939
+2023-03-06 22:03:05  [ pool-1-thread-3:2736 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58409860
+2023-03-06 22:03:05  [ pool-1-thread-3:2736 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58408080
+2023-03-06 22:03:05  [ pool-1-thread-3:2736 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58404324
+2023-03-06 22:03:05  [ pool-1-thread-3:2736 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58404452
+2023-03-06 22:03:05  [ pool-1-thread-3:2736 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58404241
+2023-03-06 22:03:05  [ pool-1-thread-3:2737 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58404083
+2023-03-06 22:03:05  [ pool-1-thread-3:2737 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58403668
+2023-03-06 22:03:05  [ pool-1-thread-3:2737 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58403548
+2023-03-06 22:03:05  [ pool-1-thread-3:2737 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58403448
+2023-03-06 22:03:05  [ pool-1-thread-3:2737 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58403374
+2023-03-06 22:03:05  [ pool-1-thread-3:2737 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58403266
+2023-03-06 22:03:05  [ pool-1-thread-3:2738 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58403177
+2023-03-06 22:03:05  [ pool-1-thread-3:2738 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58403131
+2023-03-06 22:03:05  [ pool-1-thread-3:2738 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349253
+2023-03-06 22:03:05  [ pool-1-thread-3:2738 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349220
+2023-03-06 22:03:05  [ pool-1-thread-3:2738 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349190
+2023-03-06 22:03:05  [ pool-1-thread-3:2738 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349196
+2023-03-06 22:03:05  [ pool-1-thread-3:2738 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349174
+2023-03-06 22:03:05  [ pool-1-thread-3:2739 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349137
+2023-03-06 22:03:05  [ pool-1-thread-3:2739 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349101
+2023-03-06 22:03:05  [ pool-1-thread-3:2739 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349100
+2023-03-06 22:03:05  [ pool-1-thread-3:2739 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58349012
+2023-03-06 22:03:05  [ pool-1-thread-3:2739 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348924
+2023-03-06 22:03:05  [ pool-1-thread-3:2739 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348911
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348812
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348804
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348763
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348660
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348639
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348589
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348565
+2023-03-06 22:03:05  [ pool-1-thread-3:2740 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348481
+2023-03-06 22:03:05  [ pool-1-thread-3:2741 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348371
+2023-03-06 22:03:05  [ pool-1-thread-3:2741 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348206
+2023-03-06 22:03:05  [ pool-1-thread-3:2741 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348063
+2023-03-06 22:03:05  [ pool-1-thread-3:2741 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58348006
+2023-03-06 22:03:05  [ pool-1-thread-3:2741 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347871
+2023-03-06 22:03:05  [ pool-1-thread-3:2741 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347828
+2023-03-06 22:03:05  [ pool-1-thread-3:2742 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347544
+2023-03-06 22:03:05  [ pool-1-thread-3:2742 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347502
+2023-03-06 22:03:05  [ pool-1-thread-3:2742 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347437
+2023-03-06 22:03:05  [ pool-1-thread-3:2742 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347438
+2023-03-06 22:03:05  [ pool-1-thread-3:2742 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347239
+2023-03-06 22:03:05  [ pool-1-thread-3:2742 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58347091
+2023-03-06 22:03:05  [ pool-1-thread-3:2748 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/kog/1
+2023-03-06 22:03:05  [ pool-1-thread-1:2753 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58134126
+2023-03-06 22:03:05  [ pool-1-thread-1:2754 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58134086
+2023-03-06 22:03:05  [ pool-1-thread-1:2754 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58131171
+2023-03-06 22:03:05  [ pool-1-thread-1:2754 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58131019
+2023-03-06 22:03:05  [ pool-1-thread-1:2754 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58130257
+2023-03-06 22:03:05  [ pool-1-thread-1:2755 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58129976
+2023-03-06 22:03:05  [ pool-1-thread-1:2755 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58129833
+2023-03-06 22:03:05  [ pool-1-thread-1:2755 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58128882
+2023-03-06 22:03:05  [ pool-1-thread-2:2755 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/lol/1
+2023-03-06 22:03:05  [ pool-1-thread-1:2755 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58128215
+2023-03-06 22:03:05  [ pool-1-thread-1:2756 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58128194
+2023-03-06 22:03:05  [ pool-1-thread-1:2756 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58128104
+2023-03-06 22:03:05  [ pool-1-thread-1:2756 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58125930
+2023-03-06 22:03:05  [ pool-1-thread-1:2756 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58123217
+2023-03-06 22:03:05  [ pool-1-thread-1:2756 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58122997
+2023-03-06 22:03:05  [ pool-1-thread-1:2756 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58120674
+2023-03-06 22:03:05  [ pool-1-thread-1:2757 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58117063
+2023-03-06 22:03:05  [ pool-1-thread-1:2757 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58116632
+2023-03-06 22:03:05  [ pool-1-thread-1:2757 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58101848
+2023-03-06 22:03:05  [ pool-1-thread-1:2757 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58101314
+2023-03-06 22:03:05  [ pool-1-thread-1:2757 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58100431
+2023-03-06 22:03:05  [ pool-1-thread-1:2757 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58097284
+2023-03-06 22:03:05  [ pool-1-thread-1:2757 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58096949
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58096580
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58096395
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58096239
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58095614
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58095366
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58078763
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58074678
+2023-03-06 22:03:05  [ pool-1-thread-1:2758 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58073126
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58054862
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58053576
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58052583
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58052252
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58052224
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58051821
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58050978
+2023-03-06 22:03:05  [ pool-1-thread-1:2759 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58050169
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57934803
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57933545
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57933072
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57930337
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57929259
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57926101
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57913891
+2023-03-06 22:03:05  [ pool-1-thread-1:2760 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57922537
+2023-03-06 22:03:05  [ pool-1-thread-1:2761 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57921277
+2023-03-06 22:03:05  [ pool-1-thread-1:2761 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57920673
+2023-03-06 22:03:05  [ pool-1-thread-1:2761 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/57915293
+2023-03-06 22:03:05  [ pool-1-thread-1:2761 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58481662
+2023-03-06 22:03:05  [ pool-1-thread-4:2950 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58425923
+2023-03-06 22:03:05  [ pool-1-thread-4:2950 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58425332
+2023-03-06 22:03:05  [ pool-1-thread-4:2951 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58424937
+2023-03-06 22:03:05  [ pool-1-thread-4:2951 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58424669
+2023-03-06 22:03:05  [ pool-1-thread-4:2951 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58423860
+2023-03-06 22:03:05  [ pool-1-thread-4:2951 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58423437
+2023-03-06 22:03:05  [ pool-1-thread-4:2951 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58423060
+2023-03-06 22:03:05  [ pool-1-thread-4:2951 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58421700
+2023-03-06 22:03:05  [ pool-1-thread-4:2952 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58421379
+2023-03-06 22:03:05  [ pool-1-thread-4:2952 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58419353
+2023-03-06 22:03:05  [ pool-1-thread-4:2952 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58414392
+2023-03-06 22:03:05  [ pool-1-thread-4:2952 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58409946
+2023-03-06 22:03:05  [ pool-1-thread-4:2952 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58397908
+2023-03-06 22:03:05  [ pool-1-thread-4:2952 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58409691
+2023-03-06 22:03:05  [ pool-1-thread-4:2953 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58409672
+2023-03-06 22:03:05  [ pool-1-thread-4:2953 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58409329
+2023-03-06 22:03:05  [ pool-1-thread-4:2953 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58408279
+2023-03-06 22:03:05  [ pool-1-thread-4:2953 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58408461
+2023-03-06 22:03:05  [ pool-1-thread-4:2953 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58408191
+2023-03-06 22:03:05  [ pool-1-thread-4:2953 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58407981
+2023-03-06 22:03:05  [ pool-1-thread-4:2954 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58407520
+2023-03-06 22:03:05  [ pool-1-thread-4:2954 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58407263
+2023-03-06 22:03:05  [ pool-1-thread-4:2954 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58407012
+2023-03-06 22:03:05  [ pool-1-thread-4:2954 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58406826
+2023-03-06 22:03:05  [ pool-1-thread-4:2955 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58406754
+2023-03-06 22:03:05  [ pool-1-thread-4:2955 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58406735
+2023-03-06 22:03:05  [ pool-1-thread-4:2955 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58400400
+2023-03-06 22:03:05  [ pool-1-thread-4:2955 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58400127
+2023-03-06 22:03:05  [ pool-1-thread-4:2955 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58399722
+2023-03-06 22:03:05  [ pool-1-thread-4:2956 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58399694
+2023-03-06 22:03:05  [ pool-1-thread-4:2956 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58399480
+2023-03-06 22:03:05  [ pool-1-thread-4:2956 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58399483
+2023-03-06 22:03:05  [ pool-1-thread-4:2956 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58399177
+2023-03-06 22:03:05  [ pool-1-thread-4:2956 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58398994
+2023-03-06 22:03:05  [ pool-1-thread-4:2956 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58398135
+2023-03-06 22:03:05  [ pool-1-thread-4:2956 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58397443
+2023-03-06 22:03:05  [ pool-1-thread-4:2957 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58397269
+2023-03-06 22:03:05  [ pool-1-thread-4:2957 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58397172
+2023-03-06 22:03:05  [ pool-1-thread-4:2957 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58395765
+2023-03-06 22:03:05  [ pool-1-thread-4:2957 ] - [ INFO ]  pool-1-thread-4 produces image url : https://voice.hupu.com/bbs/58357951
+2023-03-06 22:03:05  [ pool-1-thread-4:2958 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58481483
+2023-03-06 22:03:06  [ pool-1-thread-3:3466 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58339325
+2023-03-06 22:03:06  [ pool-1-thread-3:3466 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58341803
+2023-03-06 22:03:06  [ pool-1-thread-3:3467 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58342401
+2023-03-06 22:03:06  [ pool-1-thread-3:3467 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58334921
+2023-03-06 22:03:06  [ pool-1-thread-3:3467 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58325287
+2023-03-06 22:03:06  [ pool-1-thread-3:3467 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58327899
+2023-03-06 22:03:06  [ pool-1-thread-3:3467 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58326159
+2023-03-06 22:03:06  [ pool-1-thread-3:3467 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58325285
+2023-03-06 22:03:06  [ pool-1-thread-3:3467 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58321091
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58317078
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58318810
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58319529
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58319961
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58316730
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58317391
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58317162
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58316614
+2023-03-06 22:03:06  [ pool-1-thread-3:3468 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58318133
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58316398
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58316364
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58290054
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58288305
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58281290
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58284134
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58284735
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58284816
+2023-03-06 22:03:06  [ pool-1-thread-3:3469 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58284940
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58286364
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58274010
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58270013
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58277282
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58280815
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58280894
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58281022
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58278800
+2023-03-06 22:03:06  [ pool-1-thread-3:3470 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58277837
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58274005
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58268591
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58268248
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58267666
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58266091
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58254030
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58253825
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58253867
+2023-03-06 22:03:06  [ pool-1-thread-3:3471 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58252056
+2023-03-06 22:03:06  [ pool-1-thread-3:3472 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58252725
+2023-03-06 22:03:06  [ pool-1-thread-3:3472 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58250212
+2023-03-06 22:03:06  [ pool-1-thread-3:3472 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58248497
+2023-03-06 22:03:06  [ pool-1-thread-3:3472 ] - [ INFO ]  pool-1-thread-3 produces image url : https://voice.hupu.com/bbs/58214082
+2023-03-06 22:03:06  [ pool-1-thread-3:3473 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58480162
+2023-03-06 22:03:06  [ pool-1-thread-2:3538 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58444156
+2023-03-06 22:03:06  [ pool-1-thread-2:3538 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58444114
+2023-03-06 22:03:06  [ pool-1-thread-2:3538 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58443985
+2023-03-06 22:03:06  [ pool-1-thread-2:3538 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58443675
+2023-03-06 22:03:06  [ pool-1-thread-2:3538 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58435997
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58432539
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58432494
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58431733
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58430940
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58430721
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58429440
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58429534
+2023-03-06 22:03:06  [ pool-1-thread-2:3539 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58428973
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58428417
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58427686
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58427425
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58427329
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58427166
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58427024
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426961
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426940
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426815
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426819
+2023-03-06 22:03:06  [ pool-1-thread-2:3540 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426713
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426717
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426505
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426263
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426206
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426163
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58426054
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58425931
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58425840
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58425749
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58425747
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58425467
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58347669
+2023-03-06 22:03:06  [ pool-1-thread-2:3541 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58347606
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58347565
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58347337
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58347214
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346921
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346812
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346791
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346701
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346601
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346566
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346460
+2023-03-06 22:03:06  [ pool-1-thread-2:3542 ] - [ INFO ]  pool-1-thread-2 produces image url : https://voice.hupu.com/bbs/58346319
+2023-03-06 22:03:06  [ pool-1-thread-2:3543 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58480105
+2023-03-06 22:03:06  [ pool-1-thread-1:3640 ] - [ INFO ]  pool-1-thread-1 produces image url : 
+2023-03-06 22:03:06  [ pool-1-thread-1:3641 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58479972
+2023-03-06 22:03:06  [ pool-1-thread-4:3788 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58479768
+2023-03-06 22:03:06  [ pool-1-thread-2:4259 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58476605
+2023-03-06 22:03:06  [ pool-1-thread-3:4262 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58476587
+2023-03-06 22:03:07  [ pool-1-thread-1:4469 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58476278
+2023-03-06 22:03:07  [ pool-1-thread-4:4579 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58479657
+2023-03-06 22:03:07  [ pool-1-thread-3:5082 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58475985
+2023-03-06 22:03:07  [ pool-1-thread-2:5158 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58475653
+2023-03-06 22:03:07  [ pool-1-thread-1:5368 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58479341
+2023-03-06 22:03:08  [ pool-1-thread-4:5553 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58475634
+2023-03-06 22:03:08  [ pool-1-thread-3:5998 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58475985 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 22:03:08  [ pool-1-thread-3:5999 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58475247
+2023-03-06 22:03:08  [ pool-1-thread-2:6076 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58475011
+2023-03-06 22:03:08  [ pool-1-thread-1:6196 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58474680
+2023-03-06 22:03:08  [ pool-1-thread-4:6334 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58479199
+2023-03-06 22:03:09  [ pool-1-thread-3:7050 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58474590
+2023-03-06 22:03:09  [ pool-1-thread-1:7195 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58474680 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 22:03:09  [ pool-1-thread-1:7195 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58474303
+2023-03-06 22:03:09  [ pool-1-thread-2:7295 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58474145
+2023-03-06 22:03:10  [ pool-1-thread-4:7512 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58479023
+2023-03-06 22:03:10  [ pool-1-thread-3:7889 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58473836
+2023-03-06 22:03:10  [ pool-1-thread-1:8088 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58473794
+2023-03-06 22:03:11  [ pool-1-thread-2:8441 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58473668
+2023-03-06 22:03:11  [ pool-1-thread-4:8443 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58478840
+2023-03-06 22:03:11  [ pool-1-thread-3:8661 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58473274
+2023-03-06 22:03:11  [ pool-1-thread-1:8932 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58473223
+2023-03-06 22:03:11  [ pool-1-thread-2:9290 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58473668 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 22:03:11  [ pool-1-thread-2:9291 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58473164
+2023-03-06 22:03:11  [ pool-1-thread-4:9292 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58478607
+2023-03-06 22:03:12  [ pool-1-thread-3:9444 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/
+2023-03-06 22:03:12  [ pool-1-thread-1:9735 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58450008
+2023-03-06 22:03:12  [ pool-1-thread-2:10074 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58476930
+2023-03-06 22:03:12  [ pool-1-thread-4:10075 ] - [ INFO ]  pool-1-thread-4 consumes url : https://voice.hupu.com/bbs/58476753
+2023-03-06 22:03:12  [ pool-1-thread-3:10220 ] - [ INFO ]  pool-1-thread-3 consumes url : https://voice.hupu.com/bbs/58475270
+2023-03-06 22:03:13  [ pool-1-thread-1:10743 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/bbs/58476558
+2023-03-06 22:03:13  [ pool-1-thread-2:10882 ] - [ INFO ]  pool-1-thread-2 consumes url : https://voice.hupu.com/bbs/58476470
+2023-03-06 22:09:59  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 22:09:59  [ pool-1-thread-1:3 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 22:10:00  [ pool-1-thread-1:1734 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/nba/1
+2023-03-06 22:10:00  [ pool-1-thread-1:1735 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/cba/1
+2023-03-06 22:10:00  [ pool-1-thread-1:1735 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/fifa/1
+2023-03-06 22:10:00  [ pool-1-thread-1:1735 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/csl/1
+2023-03-06 22:10:00  [ pool-1-thread-1:1736 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/kog/1
+2023-03-06 22:10:00  [ pool-1-thread-1:1736 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/lol/1
+2023-03-06 22:10:00  [ pool-1-thread-1:1736 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58481662
+2023-03-06 22:10:00  [ pool-1-thread-1:1736 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58481483
+2023-03-06 22:10:00  [ pool-1-thread-1:1737 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58480162
+2023-03-06 22:10:00  [ pool-1-thread-1:1737 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58480105
+2023-03-06 22:10:00  [ pool-1-thread-1:1737 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479768
+2023-03-06 22:10:00  [ pool-1-thread-1:1738 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476605
+2023-03-06 22:10:00  [ pool-1-thread-1:1738 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476587
+2023-03-06 22:10:00  [ pool-1-thread-1:1738 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476278
+2023-03-06 22:10:00  [ pool-1-thread-1:1739 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479657
+2023-03-06 22:10:00  [ pool-1-thread-1:1739 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476151
+2023-03-06 22:10:00  [ pool-1-thread-1:1739 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475985
+2023-03-06 22:10:00  [ pool-1-thread-1:1740 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475914
+2023-03-06 22:10:00  [ pool-1-thread-1:1740 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475770
+2023-03-06 22:10:00  [ pool-1-thread-1:1740 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475653
+2023-03-06 22:10:00  [ pool-1-thread-1:1740 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479341
+2023-03-06 22:10:00  [ pool-1-thread-1:1740 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475474
+2023-03-06 22:10:00  [ pool-1-thread-1:1740 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475634
+2023-03-06 22:10:00  [ pool-1-thread-1:1741 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475247
+2023-03-06 22:10:00  [ pool-1-thread-1:1741 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475177
+2023-03-06 22:10:00  [ pool-1-thread-1:1741 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475139
+2023-03-06 22:10:00  [ pool-1-thread-1:1741 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479336
+2023-03-06 22:10:00  [ pool-1-thread-1:1741 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475011
+2023-03-06 22:10:00  [ pool-1-thread-1:1741 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474761
+2023-03-06 22:10:00  [ pool-1-thread-1:1742 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474680
+2023-03-06 22:10:00  [ pool-1-thread-1:1742 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479258
+2023-03-06 22:10:00  [ pool-1-thread-1:1742 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474653
+2023-03-06 22:10:00  [ pool-1-thread-1:1742 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474642
+2023-03-06 22:10:00  [ pool-1-thread-1:1742 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479199
+2023-03-06 22:10:00  [ pool-1-thread-1:1743 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479209
+2023-03-06 22:10:00  [ pool-1-thread-1:1743 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474590
+2023-03-06 22:10:00  [ pool-1-thread-1:1743 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474357
+2023-03-06 22:10:00  [ pool-1-thread-1:1743 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474347
+2023-03-06 22:10:00  [ pool-1-thread-1:1743 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474303
+2023-03-06 22:10:00  [ pool-1-thread-1:1744 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474228
+2023-03-06 22:10:00  [ pool-1-thread-1:1744 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474145
+2023-03-06 22:10:00  [ pool-1-thread-1:1745 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479023
+2023-03-06 22:10:00  [ pool-1-thread-1:1745 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473836
+2023-03-06 22:10:00  [ pool-1-thread-1:1745 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473794
+2023-03-06 22:10:00  [ pool-1-thread-1:1747 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473668
+2023-03-06 22:10:00  [ pool-1-thread-1:1747 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473624
+2023-03-06 22:10:00  [ pool-1-thread-1:1748 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473520
+2023-03-06 22:10:00  [ pool-1-thread-1:1748 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473506
+2023-03-06 22:10:00  [ pool-1-thread-1:1748 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58478840
+2023-03-06 22:10:00  [ pool-1-thread-1:1748 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473501
+2023-03-06 22:10:00  [ pool-1-thread-1:1748 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473498
+2023-03-06 22:10:00  [ pool-1-thread-1:1749 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473492
+2023-03-06 22:10:00  [ pool-1-thread-1:1749 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473274
+2023-03-06 22:10:00  [ pool-1-thread-1:1749 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473223
+2023-03-06 22:10:00  [ pool-1-thread-1:1749 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473164
+2023-03-06 22:10:00  [ pool-1-thread-1:1750 ] - [ INFO ]  pool-1-thread-1 produces image url : mailto:sunbin@hupu.com
+2023-03-06 22:10:00  [ main:1751 ] - [ INFO ]  Crawler url job done
+2023-03-06 22:10:47  [ main:1 ] - [ INFO ]  Start crawling....
+2023-03-06 22:10:47  [ pool-1-thread-1:3 ] - [ INFO ]  pool-1-thread-1 consumes url : https://voice.hupu.com/nba
+2023-03-06 22:10:48  [ pool-1-thread-1:1517 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/nba/1
+2023-03-06 22:10:48  [ pool-1-thread-1:1517 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/cba/1
+2023-03-06 22:10:48  [ pool-1-thread-1:1518 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/fifa/1
+2023-03-06 22:10:48  [ pool-1-thread-1:1518 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/csl/1
+2023-03-06 22:10:48  [ pool-1-thread-1:1518 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/kog/1
+2023-03-06 22:10:48  [ pool-1-thread-1:1519 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/lol/1
+2023-03-06 22:10:48  [ pool-1-thread-1:1519 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58481662
+2023-03-06 22:10:48  [ pool-1-thread-1:1519 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58481483
+2023-03-06 22:10:48  [ pool-1-thread-1:1519 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58480162
+2023-03-06 22:10:48  [ pool-1-thread-1:1520 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58480105
+2023-03-06 22:10:48  [ pool-1-thread-1:1520 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479768
+2023-03-06 22:10:48  [ pool-1-thread-1:1520 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476605
+2023-03-06 22:10:48  [ pool-1-thread-1:1521 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476587
+2023-03-06 22:10:48  [ pool-1-thread-1:1521 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476278
+2023-03-06 22:10:48  [ pool-1-thread-1:1522 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479657
+2023-03-06 22:10:48  [ pool-1-thread-1:1522 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58476151
+2023-03-06 22:10:48  [ pool-1-thread-1:1522 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475985
+2023-03-06 22:10:48  [ pool-1-thread-1:1522 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475914
+2023-03-06 22:10:48  [ pool-1-thread-1:1523 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475770
+2023-03-06 22:10:48  [ pool-1-thread-1:1523 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475653
+2023-03-06 22:10:48  [ pool-1-thread-1:1523 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479341
+2023-03-06 22:10:48  [ pool-1-thread-1:1523 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475474
+2023-03-06 22:10:48  [ pool-1-thread-1:1523 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475634
+2023-03-06 22:10:48  [ pool-1-thread-1:1524 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475247
+2023-03-06 22:10:48  [ pool-1-thread-1:1524 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475177
+2023-03-06 22:10:48  [ pool-1-thread-1:1524 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475139
+2023-03-06 22:10:48  [ pool-1-thread-1:1524 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479336
+2023-03-06 22:10:48  [ pool-1-thread-1:1524 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58475011
+2023-03-06 22:10:48  [ pool-1-thread-1:1524 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474761
+2023-03-06 22:10:48  [ pool-1-thread-1:1525 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474680
+2023-03-06 22:10:48  [ pool-1-thread-1:1525 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479258
+2023-03-06 22:10:48  [ pool-1-thread-1:1525 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474653
+2023-03-06 22:10:48  [ pool-1-thread-1:1525 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474642
+2023-03-06 22:10:48  [ pool-1-thread-1:1525 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479199
+2023-03-06 22:10:48  [ pool-1-thread-1:1525 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479209
+2023-03-06 22:10:48  [ pool-1-thread-1:1526 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474590
+2023-03-06 22:10:48  [ pool-1-thread-1:1526 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474357
+2023-03-06 22:10:48  [ pool-1-thread-1:1526 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474347
+2023-03-06 22:10:48  [ pool-1-thread-1:1526 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474303
+2023-03-06 22:10:48  [ pool-1-thread-1:1528 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474228
+2023-03-06 22:10:48  [ pool-1-thread-1:1529 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58474145
+2023-03-06 22:10:48  [ pool-1-thread-1:1529 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58479023
+2023-03-06 22:10:48  [ pool-1-thread-1:1529 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473836
+2023-03-06 22:10:48  [ pool-1-thread-1:1529 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473794
+2023-03-06 22:10:48  [ pool-1-thread-1:1532 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473668
+2023-03-06 22:10:48  [ pool-1-thread-1:1532 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473624
+2023-03-06 22:10:48  [ pool-1-thread-1:1532 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473520
+2023-03-06 22:10:48  [ pool-1-thread-1:1533 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473506
+2023-03-06 22:10:48  [ pool-1-thread-1:1533 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58478840
+2023-03-06 22:10:48  [ pool-1-thread-1:1533 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473501
+2023-03-06 22:10:48  [ pool-1-thread-1:1534 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473498
+2023-03-06 22:10:48  [ pool-1-thread-1:1534 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473492
+2023-03-06 22:10:48  [ pool-1-thread-1:1534 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473274
+2023-03-06 22:10:48  [ pool-1-thread-1:1535 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473223
+2023-03-06 22:10:48  [ pool-1-thread-1:1535 ] - [ INFO ]  pool-1-thread-1 produces image url : https://voice.hupu.com/bbs/58473164
+2023-03-06 22:10:48  [ pool-1-thread-1:1536 ] - [ INFO ]  pool-1-thread-1 produces image url : mailto:sunbin@hupu.com
+2023-03-06 22:10:48  [ main:1537 ] - [ INFO ]  Crawler url job done
+2023-03-06 22:14:25  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 22:14:25  [ pool-1-thread-1:4 ] - [ INFO ]  pool-1-thread-1 consumes url : https://www.zhitongcaijing.com/content/detail/67357.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5078 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/media.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5079 ] - [ INFO ]  pool-1-thread-1 produces image url : 
+2023-03-06 22:14:30  [ pool-1-thread-1:5079 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=contact_us
+2023-03-06 22:14:30  [ pool-1-thread-1:5080 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/
+2023-03-06 22:14:30  [ pool-1-thread-1:5080 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/content/recommend.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5081 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/immediately.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5081 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/market.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5081 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/data.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5081 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/calendar.html?type=1
+2023-03-06 22:14:30  [ pool-1-thread-1:5082 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/theme.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5082 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/news.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5082 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/focus.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5083 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/author/profile/91.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5083 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/content/detail/33018.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5084 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html
+2023-03-06 22:14:30  [ pool-1-thread-1:5084 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=business#business
+2023-03-06 22:14:30  [ pool-1-thread-1:5084 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=join_us
+2023-03-06 22:14:30  [ pool-1-thread-1:5085 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=terms
+2023-03-06 22:14:30  [ pool-1-thread-1:5085 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=privacy
+2023-03-06 22:14:30  [ pool-1-thread-1:5085 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/zhitongdown.png?v=2
+2023-03-06 22:14:30  [ pool-1-thread-1:5086 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/logo.png
+2023-03-06 22:14:30  [ pool-1-thread-1:5086 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/beian.png
+2023-03-06 22:14:30  [ pool-1-thread-1:5086 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/gs.gif
+2023-03-06 22:14:30  [ pool-1-thread-1:5086 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/zhitongdown.png
+2023-03-06 22:14:30  [ main:5086 ] - [ INFO ]  Crawler url job done
+2023-03-06 22:28:18  [ main:0 ] - [ INFO ]  Start crawling....
+2023-03-06 22:28:18  [ pool-1-thread-1:3 ] - [ INFO ]  pool-1-thread-1 consumes url : https://www.zhitongcaijing.com/content/detail/67357.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2039 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/media.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2040 ] - [ INFO ]  pool-1-thread-1 produces image url : 
+2023-03-06 22:28:20  [ pool-1-thread-1:2040 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=contact_us
+2023-03-06 22:28:20  [ pool-1-thread-1:2041 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/
+2023-03-06 22:28:20  [ pool-1-thread-1:2041 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/content/recommend.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2041 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/immediately.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2042 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/market.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2042 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/data.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2042 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/calendar.html?type=1
+2023-03-06 22:28:20  [ pool-1-thread-1:2043 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/theme.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2043 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/news.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2043 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/focus.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2044 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/author/profile/91.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2044 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/content/detail/33018.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2045 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html
+2023-03-06 22:28:20  [ pool-1-thread-1:2045 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=business#business
+2023-03-06 22:28:20  [ pool-1-thread-1:2045 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=join_us
+2023-03-06 22:28:20  [ pool-1-thread-1:2046 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=terms
+2023-03-06 22:28:20  [ pool-1-thread-1:2046 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/site/about.html?type=privacy
+2023-03-06 22:28:20  [ pool-1-thread-1:2047 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/zhitongdown.png?v=2
+2023-03-06 22:28:20  [ pool-1-thread-1:2047 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/logo.png
+2023-03-06 22:28:20  [ pool-1-thread-1:2047 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/beian.png
+2023-03-06 22:28:20  [ pool-1-thread-1:2047 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/gs.gif
+2023-03-06 22:28:20  [ pool-1-thread-1:2047 ] - [ INFO ]  pool-1-thread-1 produces image url : https://www.zhitongcaijing.com/static/images/common/zhitongdown.png
+2023-03-06 22:28:20  [ main:2048 ] - [ INFO ]  Crawler url job done

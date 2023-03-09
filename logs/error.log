@@ -1,0 +1,7 @@
+2023-03-06 21:58:11  [ pool-1-thread-3:6697 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58475985 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 21:58:12  [ pool-1-thread-2:7677 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58474680 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 21:58:14  [ pool-1-thread-4:9661 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58473668 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 21:58:19  [ pool-1-thread-4:14366 ] - [ ERROR ]  process url : mailto:sunbin@hupu.com error: java.net.MalformedURLException: Only http & https protocols supported
+2023-03-06 22:03:08  [ pool-1-thread-3:5998 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58475985 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 22:03:09  [ pool-1-thread-1:7195 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58474680 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  
+2023-03-06 22:03:11  [ pool-1-thread-2:9290 ] - [ ERROR ]  process url : https://voice.hupu.com/bbs/58473668 error: java.lang.IllegalArgumentException: Illegal character in path at index 0:  

@@ -1,0 +1,99 @@
+<html>
+<head>
+	<meta name="referrer" content="no-referrer" />
+	<title>Eulerity Web Crawler Alpha</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<style>
+		body {
+			text-align: center;
+			border: none;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+			<img src="images/eulerityLogo.png" class="justify-content-md-center mg-responsive img-thumbnail mt-3 mb-3 border-0" width="500"/>
+	</div>
+		<pre>
+ __     __    __     ______     ______     ______        ______   __     __   __     _____     ______     ______
+/\ \   /\ "-./  \   /\  __ \   /\  ___\   /\  ___\      /\  ___\ /\ \   /\ "-.\ \   /\  __-.  /\  ___\   /\  == \
+\ \ \  \ \ \-./\ \  \ \  __ \  \ \ \__ \  \ \  __\      \ \  __\ \ \ \  \ \ \-.  \  \ \ \/\ \ \ \  __\   \ \  __<
+   \ \_\  \ \_\ \ \_\  \ \_\ \_\  \ \_____\  \ \_____\     \ \_\    \ \_\  \ \_\\"\_\  \ \____-  \ \_____\  \ \_\ \_\
+    \/_/   \/_/  \/_/   \/_/\/_/   \/_____/   \/_____/      \/_/     \/_/   \/_/ \/_/   \/____/   \/_____/   \/_/ /_/
+
+		</pre>
+	</div>
+
+	<div class="content container justify-content-center">
+		<div class="input d-flex justify-content-center">
+			<form class="d-flex flex-wrap">
+				<input type="text" class="form-control mb-3 w-75 h-75" name="url" placeholder="type seed url here" size="80">
+				<button class="btn btn-secondary border btn-sm h-75" type="button" id="button-addon">Submit</button>
+			</form>
+		</div>
+		<div class="output">
+			<ul class="results">
+
+			</ul>
+		</div>
+	</div>
+	<script>
+		var banner = "\n" +
+				" ______     __  __     __         ______     ______     __     ______   __  __    \n" +
+				"/\\  ___\\   /\\ \\/\\ \\   /\\ \\       /\\  ___\\   /\\  == \\   /\\ \\   /\\__  _\\ /\\ \\_\\ \\   \n" +
+				"\\ \\  __\\   \\ \\ \\_\\ \\  \\ \\ \\____  \\ \\  __\\   \\ \\  __<   \\ \\ \\  \\/_/\\ \\/ \\ \\____ \\  \n" +
+				" \\ \\_____\\  \\ \\_____\\  \\ \\_____\\  \\ \\_____\\  \\ \\_\\ \\_\\  \\ \\_\\    \\ \\_\\  \\/\\_____\\ \n" +
+				"  \\/_____/   \\/_____/   \\/_____/   \\/_____/   \\/_/ /_/   \\/_/     \\/_/   \\/_____/ \n" +
+				"                                                                                  \n"
+
+		console.log(banner)
+		var resultList = document.querySelector('ul.results');
+		var urlInput = document.querySelector('input[name=url]')
+
+		apiCallBack = function(xhr, callback) {
+			if (xhr.readyState == XMLHttpRequest.DONE) {
+				if (xhr.status != 200) {
+					let message = xhr.status + ":" + xhr.statusText + ":"
+							+ xhr.responseText;
+					alert(message);
+					throw 'API call returned bad code: ' + xhr.status;
+				}
+				let response = xhr.responseText ? JSON.parse(xhr.responseText)
+						: null;
+				if (callback) {
+					callback(response);
+				}
+			}
+		}
+
+		updateList = function(response) {
+			console.log(response);
+			resultList.innerHTML = '';
+			for (var i = 0; i < response.length; i++) {
+				var img = document.createElement("img");
+				img.width = 200;
+				img.src = response[i];
+				resultList.appendChild(img);
+			}
+		}
+
+		makeApiCall = function(url, method, obj, callback) {
+			let xhr = new XMLHttpRequest();
+			xhr.open(method, url);
+			xhr.onreadystatechange = apiCallBack.bind(null, xhr, callback);
+			xhr.send(obj ? obj instanceof FormData || obj.constructor == String ? obj : JSON.stringify(obj) : null);
+		}
+
+		document.querySelector('button').addEventListener("click", function(event) {
+			event.preventDefault();
+			if (urlInput == null || urlInput.value === "") {
+				alert("seed url is required");
+			} else {
+				makeApiCall('/main?url=' + urlInput.value, 'POST', null, updateList);
+			}
+
+		});
+	</script>
+</body>
+
+</html>
